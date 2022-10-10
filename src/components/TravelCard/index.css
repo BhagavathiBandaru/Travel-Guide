@@ -1,0 +1,36 @@
+.each-travel-block {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  width: 600px;
+  height: 500px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+}
+
+.image-element {
+  width: 100%;
+  height: 400px;
+}
+
+.card-data-alignment {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  justify-content: flex-start;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 0px;
+  color: #475569;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #64748b;
+}
